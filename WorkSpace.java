@@ -11,7 +11,15 @@ import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
-
+/**
+* 
+* @author Srikar Vodeti 1223253239
+* @author Chandana Bandlamudi 1220495432
+* version 1.0
+* 
+* @author Chandana Bandlamudi 1220495432
+* version 2.0
+*/ 
 
 public class WorkSpace extends JPanel implements MouseListener, MouseMotionListener {
 	

@@ -5,12 +5,16 @@ import java.util.Collections;
 
 import javax.swing.JOptionPane;
 
+/**
+* 
+* @author Chandana Bandlamudi 1220495432
+* version 1.0
+*/ 
 public class Cluster {
 	
 	public ArrayList<ArrayList<City>> clustering (ArrayList<City> cities)
 	{
-		
-		
+
 		int numOfClusters =(Integer.parseInt( JOptionPane.showInputDialog("Enter the Number of Clusters")));
 		int citySize = cities.size();
 		

@@ -7,6 +7,15 @@ import java.awt.Graphics2D;
 import java.awt.Point;
 import java.awt.Rectangle;
 
+/**
+* 
+* @author Srikar Vodeti 1223253239
+* @author Chandana Bandlamudi 1220495432
+* version 1.0
+* 
+* @author Chandana Bandlamudi 1220495432
+* version 2.0
+*/ 
 public class City {
 	private Rectangle bounds;
 	private String label;

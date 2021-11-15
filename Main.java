@@ -8,6 +8,15 @@ import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 
+/**
+* 
+* @author Srikar Vodeti 1223253239
+* @author Chandana Bandlamudi 1220495432
+* version 1.0
+* 
+* @author Chandana Bandlamudi 1220495432
+* version 2.0
+*/ 
 public class Main extends JFrame{
 	
 	public Main() {
